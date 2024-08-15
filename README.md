@@ -29,7 +29,7 @@ Run the app:
 `npm run start`
 
 Open in your browser:
-`http://localhost:3002/pay?amount=300`
+`http://localhost:3002/pay?amount=500`
 
 
 ## API Endpoints
@@ -42,12 +42,5 @@ Parameters: amount (query parameter)
 Method: GET
 Endpoint: /payment/validate/:merchantTransactionId
 
-
-## Contact Information
-For any inquiries, collaborations, or development work, feel free to reach out:
-
-LinkedIn: `https://www.linkedin.com/in/vivek-thakkar-b94361121/`
-Email: `thakkarv29@gmail.com`
-GitHub: `https://github.com/VivekNThakkar`
 
 Happy coding!
